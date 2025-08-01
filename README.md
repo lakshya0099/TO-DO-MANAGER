@@ -35,8 +35,8 @@ A full-stack productivity web app that helps you manage tasks, set priorities, t
 1. Clone the Repository
 
 
-git clone https://github.com/lakshya0099/todo-gemini-app.git
-cd todo-gemini-app
+git clone https://github.com/lakshya0099/TO-DO-MANAGER.git
+cd TO-DO-MANAGER
 
 2. Backend Setup
 
@@ -56,7 +56,7 @@ The backend will start at: http://localhost:5000
 
 3. Frontend Setup
 
-cd frontend
+cd todo-frontend
 npm install
 
 ▶️ Start the Frontend
