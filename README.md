@@ -35,7 +35,7 @@ A full-stack productivity web app that helps you manage tasks, set priorities, t
 1. Clone the Repository
 
 
-git clone https://github.com/yourusername/todo-gemini-app.git
+git clone https://github.com/lakshya0099/todo-gemini-app.git
 cd todo-gemini-app
 
 2. Backend Setup
